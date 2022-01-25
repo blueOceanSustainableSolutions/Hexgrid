@@ -1,6 +1,9 @@
 ##HexGrid
+
 *HexGrid* is a program designed to create multi block meshes primary for CFD programs (and optionally for FE programs). *HexGrid* exports the mesh in a *CGNS* file.
-*HexGrid* is a *procedural* and *parametric* grid generator i.e. you write a program describing how to generate the grid. The program allows the definition of modifiable parameters for subsequent parametric studies.
+
+*HexGrid* is a *procedural* and *parametric* grid generator i.e. you write a program describing how to generate the grid.
+*HexGrid* allows the definition of modifiable parameters for subsequent parametric studies.
 
 *HexGrid* is developed on Ubuntu 18.04 LTS. For now this GitHub only contains Windows binary in the 'windows' sub-directory.
 
