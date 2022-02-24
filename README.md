@@ -1,4 +1,4 @@
-##HexGrid
+## HexGrid
 
 *HexGrid* is a program designed to create multi block meshes primary for CFD programs (and optionally for FE programs). *HexGrid* exports the mesh in a *CGNS* file.
 
